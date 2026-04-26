@@ -1,10 +1,10 @@
-# 🧮 Grille de Guasti
+# 🧮 Hypotese-de-Guasti
 
 Ce dépôt présente la **Grille de Guasti**, une structure mathématique originale pour visualiser la distribution des entiers, des multiples et des nombres premiers dans une trame tabulaire.
 
 ## 📐 Objectif
 La grille permet :
-- d’observer les multiples sous forme de motifs diagonaux,
+- d’observer les multiples via l’axe d’identité (diagonale à 45°) et les rayons de divisibilité,
 - de détecter les nombres premiers visuellement,
 - d’explorer des conjectures arithmétiques par motifs géométriques.
 
